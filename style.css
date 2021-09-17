@@ -1,0 +1,32 @@
+
+.calculator{
+    height: 470px;
+    width: 380px;
+    background-color: #e8e8e8;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 10px;
+    border: 2px solid orange;
+}
+.main-bar{
+    margin-bottom: 20px;
+    text-align: right;
+}
+.btn{
+    font-size: 40px;
+    cursor: pointer;
+    width: 85px;
+    height: 60px;
+    border-radius: 15px;
+}
+.line{
+    margin-bottom: 15px;
+}
+
+.last input{
+width: 175px;
+}
+#masum{
+    font-size: 30px;
+    font-weight: bold;
+}
